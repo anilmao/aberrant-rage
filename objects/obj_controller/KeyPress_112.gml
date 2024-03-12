@@ -1,1 +1,0 @@
-scr_fade(rm_boss_arena,96,200);

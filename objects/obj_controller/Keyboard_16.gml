@@ -1,1 +1,0 @@
-obj_player.rage_meter++; //DEBUG
