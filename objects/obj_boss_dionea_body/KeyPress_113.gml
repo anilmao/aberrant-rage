@@ -1,0 +1,1 @@
+bosstate = bosstates.tired;

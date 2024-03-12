@@ -1,0 +1,1 @@
+idle_rage_decrease = true;

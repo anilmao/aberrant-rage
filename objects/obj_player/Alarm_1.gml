@@ -1,0 +1,4 @@
+if(!cangethurt)
+{
+	cangethurt = true;
+}

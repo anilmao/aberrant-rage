@@ -1,0 +1,1 @@
+bosstate = choose(bosstates.attack1,bosstates.roar,bosstates.idle);

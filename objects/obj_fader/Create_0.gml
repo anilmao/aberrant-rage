@@ -1,0 +1,9 @@
+fade_in = 1;
+fade_out = 0;
+fade_a = 0;
+fade_col = c_black;
+cinematic = false;
+roomtogo = noone;
+xtogo = noone;
+ytogo = noone;
+f_state = fade_in;

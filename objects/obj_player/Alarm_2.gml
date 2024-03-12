@@ -1,0 +1,1 @@
+showragetext = 1;

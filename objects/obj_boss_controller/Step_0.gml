@@ -1,0 +1,1 @@
+global.bosshealth = clamp(global.bosshealth,0,global.bosshealthmax);

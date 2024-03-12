@@ -1,0 +1,1 @@
+scr_fade(roomtogo,xtogo,ytogo);

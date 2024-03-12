@@ -1,0 +1,1 @@
+scr_hurt_enemy(4);
